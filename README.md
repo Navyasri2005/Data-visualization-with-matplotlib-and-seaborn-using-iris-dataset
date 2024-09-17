@@ -31,9 +31,12 @@ Using the Iris dataset, box plots for sepal length across the three species can 
 *Subplots:
 
 With subplots, Matplotlib can visualize multiple graphs in one figure. For example, we could compare multiple scatter plots for each species on the same figure.
+
 # Key Customizations in Matplotlib:
 Titles, labels, and legends: Add axis labels, legends to distinguish between species, and titles for better understanding.
+
 *Gridlines: Help improve the readability of data points.
+
 *Color and markers: Assign unique colors and markers for different species.
 
 3. Seaborn Overview:
@@ -60,6 +63,7 @@ This feature in Seaborn allows for creating multiple plots based on a specific f
 For example, we could visualize the distribution of sepal length across the three species in separate histograms.
 
 # Key Customizations in Seaborn:
+
 *Hue: Adds an additional dimension by encoding species with different colors.
 
 *Style: Provides themes for a more polished look, including the darkgrid, whitegrid, or ticks themes.
@@ -71,6 +75,7 @@ Matplotlib offers more flexibility but requires more code to create polished plo
 Seaborn is easier for creating complex visualizations with less code and offers better defaults for statistical plots.
 
 5. Practical Applications of Iris Dataset Visualization:
+
 *Exploratory Data Analysis (EDA): By visualizing the data, we can identify patterns, relationships, and outliers.
 
 *Feature Engineering: Visual insights can guide feature selection or transformation for machine learning models.
