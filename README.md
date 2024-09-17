@@ -61,7 +61,9 @@ For example, we could visualize the distribution of sepal length across the thre
 
 # Key Customizations in Seaborn:
 *Hue: Adds an additional dimension by encoding species with different colors.
+
 *Style: Provides themes for a more polished look, including the darkgrid, whitegrid, or ticks themes.
+
 *Palette: Custom color palettes can be used to distinguish between species.
 
 4. Comparing Matplotlib and Seaborn:
@@ -70,7 +72,10 @@ Seaborn is easier for creating complex visualizations with less code and offers 
 
 5. Practical Applications of Iris Dataset Visualization:
 *Exploratory Data Analysis (EDA): By visualizing the data, we can identify patterns, relationships, and outliers.
+
 *Feature Engineering: Visual insights can guide feature selection or transformation for machine learning models.
+
 *Dimensionality Reduction: Visualization can help us decide if we should apply techniques like PCA based on relationships between features.
+
 # Conclusion:
 By combining Matplotlib and Seaborn, we can unlock powerful visualizations that provide deep insights into the Iris dataset, from simple scatter plots to more complex pairplots and violin plots, each providing a different view of the data for decision-making and model building.
